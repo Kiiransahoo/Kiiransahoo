@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Sahoo</h1>
-<h3 align="center">I'm a passionate **Full Stack Developer** with over 2 years of experience in building efficient and scalable applications using **.NET**, **.NET Core**, **DevOps**, and **SQL**. I specialize in designing and implementing high-performance solutions and optimizing algorithms for enhanced efficiency.</h3>
+<h3 align="center">I'm a passionate **Full Stack Developer** with over 2.5 years of experience in building efficient and scalable applications using **.NET**, **.NET Core**, **DevOps**, and **SQL**. I specialize in designing and implementing high-performance solutions and optimizing algorithms for enhanced efficiency.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiiransahoo&label=Profile%20views&color=0e75b6&style=flat" alt="kiiransahoo" /> </p>
